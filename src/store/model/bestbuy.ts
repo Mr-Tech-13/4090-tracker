@@ -538,6 +538,13 @@ export const BestBuy: Store = {
       url: 'https://api.bestbuy.com/click/-/6454318/pdp',
     },
     {
+      brand: 'nvidia',
+      cartUrl: 'https://api.bestbuy.com/click/-/6521430/cart',
+      model: 'founders edition',
+      series: '4090',
+      url: 'https://api.bestbuy.com/click/-/6521430/pdp',
+    },
+    {
       brand: 'gigabyte',
       cartUrl: 'https://api.bestbuy.com/click/-/6521518/cart',
       model: 'gaming oc',

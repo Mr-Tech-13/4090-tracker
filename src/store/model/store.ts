@@ -74,6 +74,7 @@ export type Model =
   | '750 platinum'
   | 'amd reference'
   | 'amp extreme holo'
+  | 'amp extreme airo'
   | 'amp holo'
   | 'amp white'
   | 'aorus elite'
