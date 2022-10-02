@@ -2,7 +2,7 @@
   <a href="https://jef.buzz/streetmerchant"><img src="https://raw.githubusercontent.com/jef/streetmerchant/main/docs/assets/images/streetmerchant-banner.png" /></a>
 </p>
 <p align="center">
-  <strong>The world's easiest, most powerful stock checker</strong>
+  <strong>The world's easiest, most powerful stock checker test</strong>
 </p>
 <p align="center">
   <a href="https://github.com/jef/streetmerchant/actions/workflows/ci.yaml"><img src="https://img.shields.io/github/workflow/status/jef/streetmerchant/ci?color=24292e&label=Continuous%20Integration&logo=github&logoColor=ffffff&style=flat-square" /></a>
