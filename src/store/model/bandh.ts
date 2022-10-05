@@ -334,6 +334,12 @@ export const BAndH: Store = {
     },
     {
       brand: 'msi',
+      model: 'gaming trio',
+      series: '4090',
+      url: 'https://www.bhphotovideo.com/c/product/1729346-REG/msi_g4090gt24_geforce_rtx_4090_gaming.html',
+    }
+    {
+      brand: 'msi',
       model: 'suprim liquid x',
       series: '4090',
       url: 'https://www.bhphotovideo.com/c/product/1729348-REG/msi_g4090slx24_geforce_rtx_4090_suprim.html',
