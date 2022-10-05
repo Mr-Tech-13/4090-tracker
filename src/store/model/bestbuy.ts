@@ -572,6 +572,13 @@ export const BestBuy: Store = {
       series: '4090',
       url: 'https://api.bestbuy.com/click/-/6522334/pdp',
     },
+    {
+      brand: 'pny',
+      cartUrl: 'https://api.bestbuy.com/click/-/6522679/cart',
+      model: 'xlr8 gaming',
+      series: '4090',
+      url: 'https://api.bestbuy.com/click/-/6522679/pdp',
+    }
   ],
   name: 'bestbuy',
 };
