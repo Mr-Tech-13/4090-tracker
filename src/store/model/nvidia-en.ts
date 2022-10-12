@@ -23,7 +23,7 @@ export const NvidiaEN: Store = {
       brand: 'nvidia',
       model: 'founders edition',
       series: '4090',
-      url: 'https://store.nvidia.com/en-us/geforce/store/?page=1&limit=9&locale=en-us&category=GPU,DESKTOP&gpu=RTX%204090%20/',
+      url: 'https://store.nvidia.com/en-us/geforce/store/?page=1&limit=9&locale=en-us&gpu=RTX%204090&category=GPU,DESKTOP&manufacturer=NVIDIA&manufacturer_filter=NVIDIA~1,ACER~0,ALIENWARE~0,AORUS~0,ASUS~2,BUILD%20REDUX~0,CLX~0,CORSAIR~0,CYBERPOWER%20PC~0,DELL~0,DIGITAL%20STORM~0,EVGA~0,FALCON%20NW~0,GIGABYTE~2,HP~0,IBUYPOWER~0,LENOVO~0,LG~0,MAINGEAR~0,MSI~4,NZXT~0,ORIGIN%20PC~0,PNY~1,RAZER~0,VIEWSONIC~0,XIDAX~0,ZOTAC~2',
     },
   ],
   name: 'nvidia-en',

@@ -1312,6 +1312,46 @@ export const Newegg: Store = {
       series: '4090',
       url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814137761',
     },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932554',
+      model: 'windforce',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814932554',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932556',
+      model: 'aorus w',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814932556',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932555',
+      model: 'aorus',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814932555',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126596',
+      model: 'tuf',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814126596',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137762',
+      model: 'gaming trio',
+      series: '4090',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814137762',
+    },
   ],
   name: 'newegg',
   realTimeInventoryLookup: async (itemNumber: string) => {

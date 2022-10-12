@@ -87,6 +87,7 @@ export type Model =
   | 'aorus xtreme waterforce'
   | 'aorus xtreme waterforce wb'
   | 'aorus'
+  | 'aorus w'
   | 'aorus box'
   | 'articstorm'
   | 'battle-ax'
