@@ -862,10 +862,10 @@ export const Amazon: Store = {
     {
       brand: 'msi',
       cartUrl:
-        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BG92GY6&Quantity.1=1',
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BG92GY61&Quantity.1=1',
       model: 'suprim',
       series: '4090',
-      url: 'https://www.amazon.com/dp/B0BG92GY6',
+      url: 'https://www.amazon.com/dp/B0BG92GY61',
     },
     {
       brand: 'msi',
