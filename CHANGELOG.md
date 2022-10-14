@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.1]
+
+https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.1.1
+
+### Changes:
+-Add links to Amazon
+
+### Notes:
+Tracking the stores Bestbuy, Nvidia US, Newegg, Bandh, Zotac, Pny, Amazon
+
+Tracking the series 4090, 4080-12g, 4080-16g
+
+
 ## [1.1.0]
 
 https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.1.0
