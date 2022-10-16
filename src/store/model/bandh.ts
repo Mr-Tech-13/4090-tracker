@@ -347,12 +347,6 @@ export const BAndH: Store = {
     {
       brand: 'pny',
       model: 'xlr8 verto epic x',
-      series: '4080-12g',
-      url: 'https://www.bhphotovideo.com/c/product/1729445-REG/pny_vcg408012tfxxpb1_nvidia_geforce_rtx_4080.html',
-    },
-    {
-      brand: 'pny',
-      model: 'xlr8 verto epic x',
       series: '4080-16g',
       url: 'https://www.bhphotovideo.com/c/product/1729444-REG/pny_vcg408016tfxxpb1_nvidia_geforce_rtx_4080.html',
     },
