@@ -23,6 +23,7 @@ export type Brand =
   | 'galax'
   | 'gigabyte'
   | 'inno3d'
+  | 'intel'
   | 'kfa2'
   | 'leadtek'
   | 'microsoft'
@@ -39,6 +40,12 @@ export type Brand =
 export type Series =
   | 'test:series'
   | 'captcha-deterrent'
+  | '13900k'
+  | '13900kf'
+  | '13700k'
+  | '13700kf'
+  | '13600k'
+  | '13600kf'
   | '3060'
   | '3060ti'
   | '3070'
@@ -236,6 +243,7 @@ export type Model =
   | 'xlr8 verto epic x oc'
   | 'xlr8 uprising'
   | 'xtreme'
+  | 'cpu'
   | 'qick';
 
 export type Link = {
