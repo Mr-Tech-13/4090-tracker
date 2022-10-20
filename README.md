@@ -33,6 +33,17 @@ For more information and customization, visit [jef.buzz/streetmerchant/getting-s
 
 ## Version History
 
+## [[v1.1.4]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.1.4)
+
+### Changes:
+-Add Intel 13th Gen Raptor Lake CPUs
+
+### Notes:
+Tracking the stores Bestbuy, Nvidia US, Newegg, Bandh, Zotac, Pny, Amazon
+
+Tracking the series 4090, ~~4080-12g~~, 4080-16g, 13600k-13900kf (all types)
+
+
 
 ## [[v1.1.3]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.1.3)
 
