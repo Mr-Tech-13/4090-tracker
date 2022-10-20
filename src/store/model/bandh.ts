@@ -350,6 +350,42 @@ export const BAndH: Store = {
       series: '4080-16g',
       url: 'https://www.bhphotovideo.com/c/product/1729444-REG/pny_vcg408016tfxxpb1_nvidia_geforce_rtx_4080.html',
     },
+    {
+      brand: 'intel',
+      model: 'cpu',
+      series: '13900k',
+      url: 'https://www.bhphotovideo.com/c/product/1721737-REG/intel_bx8071513900k_core_i9_13900k_3_ghz.html',
+    },
+    {
+      brand: 'intel',
+      model: 'cpu',
+      series: '13700k',
+      url: 'https://www.bhphotovideo.com/c/product/1721739-REG/intel_bx8071513700k_core_i7_13700k_3_4_ghz.html',
+    },
+    {
+      brand: 'intel',
+      model: 'cpu',
+      series: '13600k',
+      url: 'https://www.bhphotovideo.com/c/product/1721752-REG/intel_bx8071513600k_core_i5_13600k_3_5_ghz.html',
+    },
+    {
+      brand: 'intel',
+      model: 'cpu',
+      series: '13900kf',
+      url: 'https://www.bhphotovideo.com/c/product/1721738-REG/intel_bx8071513900kf_corei9.html',
+    },
+    {
+      brand: 'intel',
+      model: 'cpu',
+      series: '13700kf',
+      url: 'https://www.bhphotovideo.com/c/product/1721740-REG/intel_bx8071513700kf_core_i7_13700kf_3_4_ghz.html',
+    },
+    {
+      brand: 'intel',
+      model: 'cpu',
+      series: '13600kf',
+      url: 'https://www.bhphotovideo.com/c/product/1721753-REG/intel_bx8071513600kf_core_i5_13600kf_3_5_ghz.html',
+    },
   ],
   name: 'bandh',
 };

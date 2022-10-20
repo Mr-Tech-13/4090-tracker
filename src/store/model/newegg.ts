@@ -1352,6 +1352,54 @@ export const Newegg: Store = {
       series: '4090',
       url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814137762',
     },
+    {
+      brand: 'intel',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819118412',
+      model: 'cpu',
+      series: '13900k',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16819118412',
+    },
+    {
+      brand: 'intel',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819118414',
+      model: 'cpu',
+      series: '13700k',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16819118414',
+    },
+    {
+      brand: 'intel',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819118416',
+      model: 'cpu',
+      series: '13600k',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16819118416',
+    },
+    {
+      brand: 'intel',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819118413',
+      model: 'cpu',
+      series: '13900kf',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16819118413',
+    },
+    {
+      brand: 'intel',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819118415',
+      model: 'cpu',
+      series: '13700kf',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16819118415',
+    },
+    {
+      brand: 'intel',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819118417',
+      model: 'cpu',
+      series: '13600kf',
+      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16819118417',
+    },
   ],
   name: 'newegg',
   realTimeInventoryLookup: async (itemNumber: string) => {
