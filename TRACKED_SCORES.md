@@ -6,4 +6,4 @@
 | Nvidia US | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | Newegg    | :white_check_mark: | :white_check_mark: | :x:                | :white_check_mark: |
 | Pny       | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
-| Zorac     | :white_check_mark: |.:x:                | :x:                | :x:                |
+| Zotac     | :white_check_mark: |.:x:                | :x:                | :x:                |
