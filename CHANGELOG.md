@@ -1,5 +1,18 @@
 # Changelog
 
+## [[v1.1.5]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.1.5)
+
+### Changes:
+-Fixed Missing Dotenv File
+
+### Notes:
+Tracking the stores Bestbuy, Nvidia US, Newegg, Bandh, Zotac, Pny, Amazon
+
+Tracking the series 4090, ~~4080-12g~~  [see this](https://www.nvidia.com/en-us/geforce/news/12gb-4080-unlaunch/), 4080-16g, 13600k-13900kf (all types)
+
+
+
+
 ## [[v1.1.4]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.1.4)
 
 ### Changes:
