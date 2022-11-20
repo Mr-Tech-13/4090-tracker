@@ -2,7 +2,7 @@
 |-----------|--------------------|-----------|-----------|------------|
 | Amazon    | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | Bestbuy   | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
-| BandH     | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
+| BandH     | :white_check_mark: | :white_check_mark: | :x:                | :white_check_mark: |
 | Nvidia US | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | Newegg    | :white_check_mark: | :white_check_mark: | :x:                | :white_check_mark: |
 | Pny       | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
