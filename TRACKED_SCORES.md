@@ -1,5 +1,5 @@
-| Store     | 4090 | 4080 16GB | 4080 12GB | Intel CPUs |
-|-----------|--------------------|-----------|-----------|------------|
+| Store     | 4090 | 4080 16GB | 4080 12GB | Intel CPUs | 7900XT | 7900XTX |
+|-----------|--------------------|-----------|-----------|------------|----------|-------------|
 | Amazon    | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | Bestbuy   | :white_check_mark: | :white_check_mark: | :x:                | :x:                |
 | BandH     | :white_check_mark: | :white_check_mark: | :x:                | :white_check_mark: |
