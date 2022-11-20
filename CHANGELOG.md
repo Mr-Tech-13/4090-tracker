@@ -1,5 +1,21 @@
 # Changelog
 
+## [[v1.2.1]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.2.1)
+
+### Changes:
+-Added all 4080-16GB links
+
+-Started prep work for RX7900XT/XTX
+
+### Notes:
+Tracking the stores Bestbuy, Nvidia US, Newegg, Bandh, Zotac, Pny, Amazon
+
+Tracking the series 4090, ~~4080-12g~~  [see this](https://www.nvidia.com/en-us/geforce/news/12gb-4080-unlaunch/), 4080-16g, RX7900XTX, RX7900XTX, 13600k-13900kf (all types)
+
+[Better List](https://github.com/Mr-Tech-13/4090-tracker/blob/main/TRACKED_SCORES.md)
+
+
+
 ## [[v1.1.5]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.1.5)
 
 ### Changes:
