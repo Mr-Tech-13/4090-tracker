@@ -254,6 +254,11 @@ export type Model =
   | 'xlr8 uprising'
   | 'xtreme'
   | 'cpu'
+  | 'merc310'
+  | 'radeon'
+  | 'tachi'
+  | 'nitro'
+  | 'aqua'
   | 'qick';
 
 export type Link = {
