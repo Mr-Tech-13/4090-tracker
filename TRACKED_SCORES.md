@@ -7,6 +7,7 @@
 | Newegg    | :white_check_mark: | :white_check_mark: | :x:                | :blue_square: |  :white_check_mark: | :blue_square: | :blue_square: |
 | Pny       | :white_check_mark: | :white_check_mark: | :x:                | :blue_square: |  :x:                | :blue_square: | :blue_square: |
 | Zotac     | :white_check_mark: | :white_check_mark: | :x:                | :blue_square: |  :x:                | :blue_square: | :blue_square: |
+| AMD.      | :blue_square: | :blue_square: | :blue_square: | :blue_square: | :blue_square: | :blue_square: | :blue_square: |
 
 
 Key:
