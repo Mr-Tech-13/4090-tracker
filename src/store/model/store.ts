@@ -54,6 +54,7 @@ export type Series =
   | '3080'
   | '3080ti'
   | '3090'
+  | '4070ti'
   | '4080-12g'
   | '4080-16g'
   | '4090'
@@ -254,6 +255,11 @@ export type Model =
   | 'xlr8 uprising'
   | 'xtreme'
   | 'cpu'
+  | 'merc310'
+  | 'radeon'
+  | 'tachi'
+  | 'nitro'
+  | 'aqua'
   | 'qick';
 
 export type Link = {
