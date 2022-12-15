@@ -1653,7 +1653,7 @@ export const Newegg: Store = {
       cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814150876',
       model: 'gaming',
-      series: 'rx7900xtx',
+      series: 'rx7900xt',
       url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814150876',
     },
     {
