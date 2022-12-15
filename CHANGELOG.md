@@ -114,10 +114,11 @@ Tracking the series 4090,~~4080-12g~~  [see this](https://www.nvidia.com/en-us/g
 [Better List](https://github.com/Mr-Tech-13/4090-tracker/blob/main/TRACKED_SCORES.md)
 
 
-## [[v1.0.1]<-- ***Broken***](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/1.0.1 ) 
+## [[v1.0.3]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.0.3)
 
 ### Changes:
 -Bugfixes and add links
+
 
 ### Notes:
 
@@ -134,11 +135,10 @@ Still in beta
 Still in beta
 
 
-## [[v1.0.3]](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/v1.0.3)
+## [[v1.0.1]<-- ***Broken***](https://github.com/Mr-Tech-13/4090-tracker/releases/tag/1.0.1 ) 
 
 ### Changes:
 -Bugfixes and add links
-
 
 ### Notes:
 
